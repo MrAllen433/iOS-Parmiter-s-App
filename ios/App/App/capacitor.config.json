@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "menusystem",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
